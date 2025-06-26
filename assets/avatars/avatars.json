@@ -1,0 +1,6 @@
+[
+  { "name": "Default", "file": "default.png" },
+  { "name": "Robot", "file": "robot.png" },
+  { "name": "Ninja", "file": "ninja.png" },
+  { "name": "Wizard", "file": "wizard.png" }
+]
